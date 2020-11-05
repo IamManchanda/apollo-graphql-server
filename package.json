@@ -1,5 +1,5 @@
 {
-  "name": "vueandwine-graphql-server",
+  "name": "apollo-graphql-server",
   "version": "0.1.0",
   "private": true,
   "scripts": {
